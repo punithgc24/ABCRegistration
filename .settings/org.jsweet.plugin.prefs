@@ -1,0 +1,6 @@
+compiler.javascriptFolder=js
+compiler.moduleKind=none
+compiler.profiles=default
+compiler.target=ES6
+compiler.typescriptFolder=.generated
+eclipse.preferences.version=1
